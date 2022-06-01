@@ -7,7 +7,8 @@ using System.Web.Mvc;
 namespace test1.Controllers
 {
     public class HomeController : Controller
-    {
+    { 
+        //test 1 lwinmar from nan Pc
         public ActionResult Index()
         {
             return View();
